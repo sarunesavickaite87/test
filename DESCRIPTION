@@ -4,14 +4,14 @@ Version: 2.1
 Authors@R:
   c(
     person(
-        given = "Lisa", 
-        family = "DeBruine", 
+        given = "Sarune", 
+        family = "Savickaite", 
         role = c("aut", "cre"), 
-        email = "debruine@gmail.com", 
-        comment = c(ORCID = "0000-0002-7523-5539")
+        email = "sarune.savickaite@glasgow.ac.uk", 
+        comment = c(ORCID = "0")
     )
   )
-Description: This book provides a starting template for books in the psyTeachR series at the University of Glasgow School of Psychology and Neuroscience.
+Description: This book provides 
 License: CC BY 4.0 + LICENSE
 Encoding: UTF-8
 LazyData: true
