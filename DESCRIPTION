@@ -8,7 +8,7 @@ Authors@R:
         family = "Savickaite", 
         role = c("aut", "cre"), 
         email = "sarune.savickaite@glasgow.ac.uk", 
-        comment = c(ORCID = "0")
+        comment = c(ORCID = "00000")
     )
   )
 Description: This book provides 
